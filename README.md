@@ -1,4 +1,4 @@
-
+##### functionalities
   1- create new match 
   2- list matches 
    - if the match is (active , finished , will start)
@@ -8,7 +8,7 @@
 
   4- update: match is active or inactive , and update the score
 
-#####some suggestions
+##### some suggestions
 status of match :
    is-active : 0
    finished : 1
