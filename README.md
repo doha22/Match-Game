@@ -1,23 +1,23 @@
-list of matches:
-ahly --------------------(hometeam(home ground), awayteam (), starttime , endtime,isactive.............) 
-zamalik-----------------
-asamely-------------------
-....
-1- create new match 
-2- list ------ 
-   - if the match is (active , finished , will start) ---> from front-end
+
+  1- create new match 
+  2- list matches 
+   - if the match is (active , finished , will start)
    - group the matches with date
-   - score and name of each team
+   
+  3- can filter by team-name , date range(not yet)
 
-3- can filter by team-name , date range
-
-4- update: match is active or inactive , and update the score
+  4- update: match is active or inactive , and update the score
 ---------------------------------------------------------------------
-duration = end-time - start-time
+#####some suggestions
+status of match :
+   is-active : 0
+   finished : 1
+   not started : 2
+   
+ the filter by team name : 
+   that will be in fixed list where all teams be there
+   and to avoid duplication in team names 
 
-is-active : default: 0
-will-start:  before the start-time with mintues :(will triger )
-is-finished: after match time (will triger (finished) , then update match is inactive
 
 
 
