@@ -1,12 +1,12 @@
 ##### functionalities
-  1- create new match 
-  2- list matches 
+- create new match 
+- list matches 
    - if the match is (active , finished , will start)
    - group the matches with date
    
-  3- can filter by team-name , date range(not yet)
+- can filter by team-name , date range(not yet)
 
-  4- update: match is active or inactive , and update the score
+- update: match is active or inactive , and update the score
 
 ##### some suggestions
 status of match :
